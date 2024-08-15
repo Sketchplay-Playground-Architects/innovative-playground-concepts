@@ -1,7 +1,9 @@
 # Innovative Playground Concepts
 
-![The Sky The Sea The Clouds Themed Kindergarten Playground Design](https://github.com/Sketchplay-Playground-Architects/innovative-playground-concepts/blob/main/The%20Sky%20The%20Sea%20The%20Clouds%20Themed%20Kindergarten%20Playground%20design.jpg)
-![The Sky The Sea The Clouds Themed Kindergarten Playground Design 3](https://github.com/Sketchplay-Playground-Architects/innovative-playground-concepts/blob/main/The%20Sky%20The%20Sea%20The%20Clouds%20Themed%20Kindergarten%20Playground%20design%203.jpg)
+## Themed Kindergarten Playground Designs
+
+![The Sky The Sea The Clouds Themed Kindergarten Playground Design](https://github.com/Sketchplay-Playground-Architects/innovative-playground-concepts/blob/main/The%20Sky%20The%20Sea%20The%20Clouds%20Themed%20Kindergarten%20Playground%20design.jpg?raw=true)
+![The Sky The Sea The Clouds Themed Kindergarten Playground Design 3](https://github.com/Sketchplay-Playground-Architects/innovative-playground-concepts/blob/main/The%20Sky%20The%20Sea%20The%20Clouds%20Themed%20Kindergarten%20Playground%20design%203.jpg?raw=true)
 
 ## Overview
 At **Sketchplay Playground Architects**, we take pride in our innovative playground designs. Our approach combines detailed 3D modeling with hand-drawn sketches to ensure a creative and effective design process.
